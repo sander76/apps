@@ -1,0 +1,17 @@
+---
+hello_world:
+  module: hello
+  class: HelloWorld
+
+away_mode:
+  module: hello
+  class: AwayMode
+
+wrc_6:
+  module: garden_room
+  class: Wrc6Garden
+  name: 000B55699AEBC0
+
+battery_watcherr:
+  module: battery_watcher
+  class: BatteryWatcher
